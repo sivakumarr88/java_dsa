@@ -7,7 +7,7 @@ import java.util.Set;
 
 public class HashSetCls {
 
-	private Set<String> strHashSet = new HashSet<String>();
+	private Set<String> strHashSet = new HashSet<>();
 	
 	public Set<String> getStrHashSet() {
 		return strHashSet;

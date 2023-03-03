@@ -1,0 +1,4 @@
+2023-03-04 00:36:57,280 INFO c.s.j.s.MainCls [main] [four, one, two, three]
+2023-03-04 00:36:57,291 DEBUG c.s.j.s.MainCls [main] 4
+2023-03-04 00:42:07,503 INFO c.s.j.s.MainCls [main] [four, one, two, three]
+2023-03-04 00:42:07,508 DEBUG c.s.j.s.MainCls [main] 4
